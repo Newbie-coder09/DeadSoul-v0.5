@@ -26,6 +26,7 @@ Check out the sample video:
 [![Sample](https://user-images.githubusercontent.com/119154806/218260002-71dae93d-51ed-40db-9b00-dba0364451df.png)](https://youtu.be/EAWY6e_GMes "DeadSoul v0.5 - A visual novel game")
 
 Credits:
-itch.io
-dafont
+https://ruberidcrys.itch.io/anime-girl-sprite-30-expressions
+https://www.dafont.com/amelinda.font
+https://www.fontspace.com/qd-better-comic-sans-font-f41648
 pinterest

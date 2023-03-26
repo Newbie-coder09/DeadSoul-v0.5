@@ -27,6 +27,11 @@ Check out the sample video:
 
 Credits:
 https://ruberidcrys.itch.io/anime-girl-sprite-30-expressions
+
+https://nsaid.itch.io/blonde-guy
+
 https://www.dafont.com/amelinda.font
+
 https://www.fontspace.com/qd-better-comic-sans-font-f41648
-pinterest
+
+pinterest and renpy

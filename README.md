@@ -35,4 +35,4 @@ https://www.dafont.com/amelinda.font
 
 https://www.fontspace.com/qd-better-comic-sans-font-f41648
 
-pinterest and renpy
+Pinterest and RenPy
